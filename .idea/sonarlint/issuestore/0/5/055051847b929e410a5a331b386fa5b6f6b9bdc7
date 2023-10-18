@@ -1,0 +1,24 @@
+
+n
+java:S1192"QDefine a constant instead of duplicating this literal "                " 3 times.(¸Æ£å8É—ØØ³1
+L
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ8Ù—ØØ³1
+`
+java:S1659">Declare "b" and all following declarations on a separate line.(ÜÔ Âúÿÿÿÿ8Ù—ØØ³1
+H
+java:S1481"&Remove this unused "a" local variable.(ÜÔ Âúÿÿÿÿ8Ù—ØØ³1
+H
+java:S1481"&Remove this unused "b" local variable.(ÜÔ Âúÿÿÿÿ8Ù—ØØ³1
+H
+java:S1481"&Remove this unused "c" local variable.(ÜÔ Âúÿÿÿÿ8Ù—ØØ³1
+H
+java:S1481"&Remove this unused "d" local variable.(ÜÔ Âúÿÿÿÿ8Ù—ØØ³1
+L	java:S106	"+Replace this use of System.out by a logger.(‘š¡—şÿÿÿÿ8Ù—ØØ³1
+G	java:S106
+"+Replace this use of System.out by a logger.(À¼ä8Ù—ØØ³1
+L	java:S106"+Replace this use of System.out by a logger.(½î¬òøÿÿÿÿ8Ù—ØØ³1
+L	java:S106"+Replace this use of System.out by a logger.(ÅÌøÿÿÿÿ8Ù—ØØ³1
+G	java:S106"+Replace this use of System.out by a logger.(İÄ™‚8Ù—ØØ³1
+G	java:S106"+Replace this use of System.out by a logger.(¸Æ£å8Ù—ØØ³1
+G	java:S106"+Replace this use of System.out by a logger.(áğ½´8Ù—ØØ³1
+L	java:S106"+Replace this use of System.out by a logger.(İËÙùÿÿÿÿ8Ù—ØØ³1
